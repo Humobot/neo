@@ -1,4 +1,4 @@
 Neo
 =====
 
-Universal API Service for AI.
+Universal API Library for AI.
